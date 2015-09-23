@@ -9,3 +9,5 @@ RUN echo 'Hi, Running .. a new <h1> dynamic  container creation </h1>' \
 CMD nginx -g "daemon off;"
 
 EXPOSE 80
+
+
